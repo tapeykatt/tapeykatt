@@ -12,6 +12,9 @@ I make art, animations, and more.
 - Adobe Animate
 - Melodyne (used on Scratch projects, [specially on this one](https://scratch.mit.edu/projects/798802452/))
 
+# My OC Refs
+[Here](https://nicolasperez.neocities.org/oc/)
+
 <!---
 nicoanimateyt/nicoanimateyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
