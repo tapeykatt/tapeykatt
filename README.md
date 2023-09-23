@@ -21,7 +21,7 @@ I make art, animations, and more.
 - JS
 - Python
 
-![Me](https://tr.rbxcdn.com/11a1f5b0fe2c2a526b71ff680ed57b63/352/352/Avatar/Png)
+![Me](iconos.png)
 
 <!---
 nicoanimateyt/nicoanimateyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
