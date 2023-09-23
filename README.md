@@ -15,7 +15,14 @@ I make art, animations, and more.
 # My OC Refs
 [Here](https://nicolasperez.neocities.org/oc/)
 
+# What im currently learning
+- HTML
+- CSS
+- JS
+- Python
+
 <!---
 nicoanimateyt/nicoanimateyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
