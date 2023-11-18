@@ -1,5 +1,5 @@
 # About me
-I'm Nicolas Perez, i'm from Santiago de Chile. I'm 13 years old, my birthday is on November 18, i have Autism and ADHD. And yea, i make (and steal) memes. I'm also interested on technology. I'm multifandom cuz i like more things. And i have an Xbox 360 Slim.
+I'm Nicolas Perez, i'm from Santiago de Chile. I'm 14 years old, my birthday is on November 18, i have Autism and ADHD. And yea, i make (and steal) memes. I'm also interested on technology. I'm multifandom cuz i like more things. And i have an Xbox 360 Slim.
 
 I make art, animations, and more.
 
