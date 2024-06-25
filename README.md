@@ -1,17 +1,14 @@
 # About me
-I'm Nicolas Perez, i'm from Santiago de Chile. I'm 14 years old, my birthday is on November 18, i have Autism and ADHD. And yea, i make (and steal) memes. I'm also interested on technology. I'm multifandom cuz i like more things. And i have an Xbox 360 Slim.
 
-# Programs I use
-- Capcut
-- Sony Vegas Pro 16.0
-- Bandicam
-- IbisPaint X
-- Inkscape
-- Microsoft Paint
-- Adobe Animate
+- Name: Nicolas Perez
+- Age: 14
+- Birthday: November 18
+- Nationality: Chilean
+- Pronouns: He/Him
+- Conditions: Autism and ADHD
 
 # My OC Refs
-[Here](https://nicolasperez.neocities.org/oc/)
+[Here](https://tapeykatt.neocities.org/oc/)
 
 # Languages i know
 - HTML
