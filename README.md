@@ -1,11 +1,11 @@
 # About me
 
 - Name: Nicolas Perez
-- Age: 14
+- Age: 15
 - Birthday: November 18
 - Nationality: Chilean
 - Pronouns: He/Him
-- Conditions: Autism and ADHD
+- Mental Disorders: Autism and ADHD
 
 # Languages i know
 - HTML
