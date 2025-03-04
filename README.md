@@ -13,7 +13,7 @@
 - JS
 - Python
 
-![Me on the computer](tapeylaptop2.svg)
+<img src="tapeylaptop2.svg" width="200px">
 <!---
 nicoanimateyt/nicoanimateyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
