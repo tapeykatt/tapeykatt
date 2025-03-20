@@ -13,6 +13,8 @@
 - JS
 - Python
 
+I mostly translate projects in here :P
+
 <img src="tapeylaptop2.svg" width="200px">
 <!---
 nicoanimateyt/nicoanimateyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
