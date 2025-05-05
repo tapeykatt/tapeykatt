@@ -13,7 +13,7 @@ Heya-hey! Welcome to my GitHub profile!
 - HTML
 - CSS
 - JS
-- Python (a bit since the last time i learned (Late 2023) TwT
+- Python (a bit since the last time i learned (Late 2023) TwT)
 
 I mostly translate projects in here :P
 
