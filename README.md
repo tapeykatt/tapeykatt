@@ -17,7 +17,7 @@ Heya-hey! Welcome to my GitHub profile!
 
 I mostly translate projects in here :P
 
-<img src="nicopose.svg" width="200px">
+<img src="nicopose.png" width="200px">
 <!---
 nicoanimateyt/nicoanimateyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
