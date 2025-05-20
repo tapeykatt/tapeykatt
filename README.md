@@ -1,4 +1,4 @@
-Heya-hey! Welcome to my GitHub profile!
+Heya-hey! Welcome to my GitHub profile! I'm Nicolas, a silly and lazy chartreux cat who loves tech, draws, plays games, and more.
 
 # About me
 
