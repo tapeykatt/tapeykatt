@@ -1,13 +1,4 @@
-Heya-hey! Welcome to my GitHub profile! I'm Nicolas, a silly and lazy chartreux cat who loves tech, draws, plays games, and more.
-
-# About me
-
-- Name: Nicolas Perez
-- Age: 15
-- Birthday: November 18
-- Nationality: Chilean
-- Pronouns: He/Him
-- Mental Disorders: Autism and ADHD
+Heya-hey! Welcome to my GitHub profile! I'm Nicolas, a silly and lazy 15 year-old chartreux cat from Chile who loves tech, draws, plays games, and more.
 
 # Languages i know
 - HTML
