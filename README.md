@@ -1,4 +1,4 @@
-Heya-hey! Welcome to my GitHub profile! I'm Nicolas, a silly and lazy 15 year-old chartreux cat from Chile who loves tech, draws, codes, plays games, and more.
+Heya-hey! Welcome to my GitHub profile! I'm Nicolas, a geeky chartreux cat from Chile who loves tech, draws, codes, plays games, and more.
 
 # Languages i know
 - HTML
