@@ -9,6 +9,18 @@ Heya-hey! Welcome to my GitHub profile! I'm Nicolas, a geeky chartreux cat from 
 I mostly translate projects in here :P
 
 <img src="nicopose.svg" width="200px">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 <!---
 nicoanimateyt/nicoanimateyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
