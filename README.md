@@ -1,6 +1,6 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzprYt7lTOzx8gEKO3EIVLA?label=YouTube%20subs)
 
-Heya-hey! Welcome to my GitHub profile! I'm Nicolas, a geeky chartreux cat from Chile who loves tech, draws, codes, plays games, and more. Mrraw :3
+Heya-hey! Welcome to my GitHub profile! I'm Javeen (but my real name is Nicolas), a geeky chartreux cat from Chile who loves tech, draws, codes, plays games, and more. Mrraw :3
 
 # Languages i know
 - HTML
