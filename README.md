@@ -1,12 +1,15 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzprYt7lTOzx8gEKO3EIVLA?label=YouTube%20subs)
+![Bluesky followers](https://img.shields.io/bluesky/followers/did%3Aplc%3Ah55zvjjs7ay2jc3nww3cakif)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/114711810679570972?domain=chitter.xyz)
+
 
 Yo! Welcome to my GitHub profile! I'm Javeen (but my real name is Nicolas), a geeky chartreux cat from Chile who loves tech, draws, codes, plays games, and more. Mrraw :3
 
-# Languages i know
+# Languages I know
 - HTML
 - CSS
 - JS
-- Python (a bit since the last time i learned (Late 2023) TwT)
+- Python (a bit since the last time I learned (Late 2023) TwT)
 
 I mostly translate projects in here :P
 
