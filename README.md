@@ -1,4 +1,3 @@
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzprYt7lTOzx8gEKO3EIVLA?label=YouTube%20subs)
 ![Bluesky followers](https://img.shields.io/bluesky/followers/did%3Aplc%3Ah55zvjjs7ay2jc3nww3cakif)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/114711810679570972?domain=chitter.xyz)
 
